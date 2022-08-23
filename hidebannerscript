@@ -1,0 +1,10 @@
+<script>
+
+
+
+if(window.location.pathname === "/cookie-policy/") { 
+    
+     document.head.innerHTML = document.head.innerHTML + '<style>div#iubenda-cs-banner { display: none !important; } </style>';
+
+}
+</script>
